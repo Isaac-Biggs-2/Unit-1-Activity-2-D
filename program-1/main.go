@@ -1,8 +1,8 @@
 /*
  *@author Isaac Biggs
  *@version 1.0.0
- *date 2025-10-0106
- *fileoverview This program displays my name and coursed
+ *date 2025-10-06
+ *fileoverview This program displays my name and courses
  */
 
  package main
